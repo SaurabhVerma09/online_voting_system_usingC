@@ -4,3 +4,5 @@ It is basic project which give u a deep understanding of how to implements Data 
 
 ## Language used
 completely base on c language with the help of basic data structure
+
+## Directly you can implement it on VS Code
